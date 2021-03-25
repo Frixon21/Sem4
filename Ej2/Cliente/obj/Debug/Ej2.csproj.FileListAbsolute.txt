@@ -1,0 +1,10 @@
+D:\Class\Q4\SO\Ejercicios\Sem4\Ej2\obj\Debug\Ej2.csprojAssemblyReference.cache
+D:\Class\Q4\SO\Ejercicios\Sem4\Ej2\obj\Debug\Ej2.Form1.resources
+D:\Class\Q4\SO\Ejercicios\Sem4\Ej2\obj\Debug\Ej2.Properties.Resources.resources
+D:\Class\Q4\SO\Ejercicios\Sem4\Ej2\obj\Debug\Ej2.csproj.GenerateResource.cache
+D:\Class\Q4\SO\Ejercicios\Sem4\Ej2\obj\Debug\Ej2.csproj.CoreCompileInputs.cache
+D:\Class\Q4\SO\Ejercicios\Sem4\Ej2\bin\Debug\Ej2.exe.config
+D:\Class\Q4\SO\Ejercicios\Sem4\Ej2\bin\Debug\Ej2.exe
+D:\Class\Q4\SO\Ejercicios\Sem4\Ej2\bin\Debug\Ej2.pdb
+D:\Class\Q4\SO\Ejercicios\Sem4\Ej2\obj\Debug\Ej2.exe
+D:\Class\Q4\SO\Ejercicios\Sem4\Ej2\obj\Debug\Ej2.pdb
